@@ -1,0 +1,1 @@
+09:40:14,insert into committees (committee_name) values('mybook'),Error Code: 1062. Duplicate entry 'mybook' for key 'committees.committee_name_unique'	0.031 sec

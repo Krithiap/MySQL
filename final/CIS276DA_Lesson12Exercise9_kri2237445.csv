@@ -1,0 +1,10 @@
+category_name,product_name,total_sales,highest_sales_product,lowest_sales
+Basses,"Fender Precision",559.99,"Fender Precision","Fender Precision"
+Drums,"Tama 5-Piece Drum Set with Cymbals",679.99,"Tama 5-Piece Drum Set with Cymbals","Tama 5-Piece Drum Set with Cymbals"
+Drums,"Ludwig 5-piece Drum Set with Cymbals",489.99,"Tama 5-Piece Drum Set with Cymbals","Ludwig 5-piece Drum Set with Cymbals"
+Guitars,"Gibson SG",1208.16,"Gibson SG","Gibson SG"
+Guitars,"Gibson Les Paul",1678.60,"Gibson SG","Gibson Les Paul"
+Guitars,"Fender Stratocaster",978.60,"Gibson SG","Fender Stratocaster"
+Guitars,"Yamaha FG700S",303.79,"Gibson SG","Yamaha FG700S"
+Guitars,"Washburn D10S",598.00,"Gibson SG","Washburn D10S"
+Guitars,"Rodriguez Caballero 11",253.15,"Gibson SG","Rodriguez Caballero 11"

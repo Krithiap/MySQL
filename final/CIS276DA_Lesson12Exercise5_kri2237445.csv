@@ -1,0 +1,2 @@
+product_id,category_id,product_code,product_name,description,list_price,discount_percent,date_added,Product_supplier,product_markup_percentage,TimeAdder
+11,4,dgx_640,"Yamaa DGX 640 88-key Digital Piano","Long desription to Come",799.99,35.00,"2023-11-08 00:00:00",NULL,50.00,NULL

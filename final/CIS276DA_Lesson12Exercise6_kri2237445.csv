@@ -1,0 +1,4 @@
+customer_id,email_address,COUNT(i.item_id),order_total
+1,allan.sherwood@yahoo.com,3,2300.61
+6,frankwilson@sbcglobal.net,3,1539.28
+4,david.goldstein@hotmail.com,2,788.30

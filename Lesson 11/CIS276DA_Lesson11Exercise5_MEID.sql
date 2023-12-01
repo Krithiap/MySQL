@@ -1,0 +1,1 @@
+select  vendor_id from vendors;

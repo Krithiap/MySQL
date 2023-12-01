@@ -1,0 +1,13 @@
+last_name,first_name,order_date,item_price,discount_amount,quantity,product_name
+Brown,Christine,"2018-03-30 15:22:31",1199.00,359.70,2,"Gibson Les Paul"
+Goldstein,David,"2018-03-31 05:43:11",299.00,0.00,1,"Washburn D10S"
+Goldstein,David,"2018-04-03 12:22:31",699.00,209.70,1,"Fender Stratocaster"
+Hernandez,Gary,"2018-04-02 11:26:38",799.99,120.00,1,"Tama 5-Piece Drum Set with Cymbals"
+Sherwood,Allan,"2018-03-28 09:40:28",1199.00,359.70,1,"Gibson Les Paul"
+Sherwood,Allan,"2018-03-29 09:44:58",2517.00,1308.84,1,"Gibson SG"
+Sherwood,Allan,"2018-03-29 09:44:58",415.00,161.85,1,"Rodriguez Caballero 11"
+Valentino,Erin,"2018-03-31 18:37:22",299.00,0.00,1,"Washburn D10S"
+Wilson,"Frank Lee","2018-04-01 23:11:12",799.99,240.00,1,"Fender Precision"
+Wilson,"Frank Lee","2018-04-01 23:11:12",699.00,209.70,1,"Fender Stratocaster"
+Wilson,"Frank Lee","2018-04-01 23:11:12",699.99,210.00,1,"Ludwig 5-piece Drum Set with Cymbals"
+Zimmer,Barry,"2018-03-28 11:23:20",489.99,186.20,1,"Yamaha FG700S"

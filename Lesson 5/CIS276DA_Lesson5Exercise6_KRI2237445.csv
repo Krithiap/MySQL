@@ -1,0 +1,2 @@
+invoice_id,vendor_id,invoice_number,invoice_date,invoice_total,payment_total,credit_total,terms_id,invoice_due_date,payment_date
+115,32,AX-0140-027,8/1/2018,434.58,391.12,43.46,2,8/31/2018,NULL

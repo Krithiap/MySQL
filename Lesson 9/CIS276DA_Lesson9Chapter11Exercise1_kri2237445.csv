@@ -1,0 +1,6 @@
+Table,Non_unique,Key_name,Seq_in_index,Column_name,Collation,Cardinality,Sub_part,Packed,Null,Index_type,Comment,Index_comment,Visible,Expression
+vendors,0,PRIMARY,1,vendor_id,A,122,NULL,NULL,,BTREE,,,YES,NULL
+vendors,0,vendor_name,1,vendor_name,A,122,NULL,NULL,,BTREE,,,YES,NULL
+vendors,1,vendors_fk_terms,1,default_terms_id,A,5,NULL,NULL,,BTREE,,,YES,NULL
+vendors,1,vendors_fk_accounts,1,default_account_number,A,31,NULL,NULL,,BTREE,,,YES,NULL
+vendors,1,vendors_zip_code_ix,1,vendor_zip_code,A,97,NULL,NULL,,BTREE,,,YES,NULL

@@ -1,0 +1,5 @@
+"Grants for kri@localhost"
+"GRANT USAGE ON *.* TO `kri`@`localhost`"
+"GRANT SELECT, INSERT, UPDATE, DELETE ON `my_guitar_shop`.`addresses` TO `kri`@`localhost` WITH GRANT OPTION"
+"GRANT SELECT, INSERT, UPDATE, DELETE ON `my_guitar_shop`.`customers` TO `kri`@`localhost` WITH GRANT OPTION"
+"GRANT SELECT, INSERT, UPDATE, DELETE ON `my_guitar_shop`.`order_items` TO `kri`@`localhost` WITH GRANT OPTION"
