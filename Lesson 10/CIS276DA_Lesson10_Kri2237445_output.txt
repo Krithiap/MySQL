@@ -1,0 +1,8 @@
+C:\Users\acp36\Desktop\PVCC\MySQL_Fall_2023\Lesson 10>node app.js
+Connected to MySQL server!
+Table 'employees' created
+New employee added
+Employee names: [ RowDataPacket { name: 'John Doe' } ]
+Employee 'John Doe' job title updated
+Employee 'John Doe' deleted
+Connection closed

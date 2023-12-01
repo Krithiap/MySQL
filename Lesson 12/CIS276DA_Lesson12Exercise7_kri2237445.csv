@@ -1,0 +1,1 @@
+mysqlbinlog --start-datetime="2023-11-15 10:27:00"  --stop-datetime="2023-11-15 10:29:00" "C:\ProgramData\MySQL\MySQL Server 8.0\Data\DESKTOP-91FL2UB-bin.000098" | mysql -u root -p

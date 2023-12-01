@@ -1,0 +1,55 @@
+account_number,account_description,invoice_id
+221,"401K Employee Contributions",NULL
+200,"Accounts Payable",NULL
+110,"Accounts Receivable",NULL
+569,"Auto Expense",NULL
+568,"Auto License Fee",NULL
+565,"Bank Fees",NULL
+394,"Book Club Royalties",NULL
+181,"Book Development",NULL
+120,"Book Inventory",NULL
+551,"Business Forms",NULL
+590,"Business Insurance",NULL
+280,"Capital Stock",NULL
+162,"Capitalized Lease",NULL
+536,"Card Deck Advertising",NULL
+100,Cash,NULL
+610,"Charitable Contributions",NULL
+555,"Collection Agency Fees",NULL
+301,"College Sales",NULL
+310,"Compositing Revenue",NULL
+527,"Computer Equipment Maintenance",NULL
+306,"Consignment Sales",NULL
+556,"Credit Card Handling",NULL
+238,"Employee FICA Taxes Payable",NULL
+242,"Employee SDI Taxes Payable",NULL
+239,"Employer FICA Taxes Payable",NULL
+241,"Employer FUTA Taxes Payable",NULL
+243,"Employer UCI Taxes Payable",NULL
+532,"Equipment Rental",NULL
+546,"Exhibits and Shows",NULL
+630,"Federal Corporation Income Taxes",NULL
+505,FICA,NULL
+506,FUTA,NULL
+251,"IBM Credit Corporation Payable",NULL
+528,"IBM Lease",NULL
+235,"Income Taxes Payable",NULL
+620,"Interest Paid to Banks",NULL
+508,Medicare,NULL
+234,"Medicare Taxes Payable",NULL
+621,"Other Interest",NULL
+550,"Packaging Materials",NULL
+576,"PC Software",NULL
+611,"Profit Sharing Contributions",NULL
+300,"Retail Sales",NULL
+290,"Retained Earnings",NULL
+205,"Royalties Payable",NULL
+500,"Salaries and Wages",NULL
+632,"Sales Tax",NULL
+230,"Sales Taxes Payable",NULL
+167,Software,NULL
+541,"Space Advertising",NULL
+631,"State Corporation Income Taxes",NULL
+237,"State Payroll Taxes Payable",NULL
+302,"Trade Sales",NULL
+548,"Web Site Production and Fees",NULL
